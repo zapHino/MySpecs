@@ -1,0 +1,2 @@
+# MySpecs
+podspecリポジトリ
